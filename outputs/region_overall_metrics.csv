@@ -1,2 +1,2 @@
-cutoff_date,test_rows,regions,baseline_col,exog_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline
-2025-08-05,540,6,y_wkago,"is_holiday,tavg,tmin,tmax,prcp,wspd",12.036410166916761,15.523922834740768,40.44094597554474,11.96111111111111,15.578415742206813,40.01576049251553
+model,cutoff_date,test_rows,regions,baseline_col,exog_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline
+xgboost,2025-08-05,720,8,y_wkago,"is_holiday,tavg,tmin,tmax,prcp,wspd",9.963426816820478,13.455149350364374,69.46452212196428,9.54861111111111,13.076856146133391,64.40294603089909

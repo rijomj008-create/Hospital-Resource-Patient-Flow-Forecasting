@@ -7,6 +7,7 @@ import datetime as dt
 from datetime import timedelta
 
 import requests
+import pyodbc
 import pandas as pd
 import azure.functions as func
 from azure.storage.blob import BlobServiceClient
@@ -94,3 +95,13 @@ def main(mytimer: func.TimerRequest) -> None:
         d += timedelta(days=1)
 
     logging.info(f"Done. Days checked={total_days}, saved={saved}")
+
+    # Refresh staging table so ML views are up to date
+    if saved > 0:
+        try:
+            sql_conn_str = os.environ["SQL_CONN_STR"]
+            with pyodbc.connect(sql_conn_str, autocommit=True) as cn:
+                cn.execute("EXEC dbo.usp_refresh_daily_features;")
+            logging.info("✅ stg.daily_features refreshed")
+        except Exception as e:
+            logging.exception(f"❌ stg.daily_features refresh failed: {e}")

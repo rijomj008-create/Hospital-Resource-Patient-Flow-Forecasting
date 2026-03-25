@@ -1,2 +1,2 @@
-cutoff_date,test_rows,baseline_col,exog_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline
-2025-08-05,90,lag7,"is_holiday,beds_nat,pct_of_beds_nat",31.41251760172384,41.76983718961787,15.940332408819849,31.27777777777778,42.132199351828554,15.634172924713392
+model,cutoff_date,test_rows,baseline_col,feature_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline,mae_lift
+xgboost,2025-08-05,90,lag7,"lag1,lag7,lag14,ma7,ma28,dow,month,is_weekend,is_winter,is_holiday,zscore_nat,is_spike_nat,beds_nat,pct_of_beds_nat,tavg_dublin,tmin_dublin,tmax_dublin,prcp_dublin,wspd_dublin",4.856773527753022,6.81591333887518,2.8266042471626256,31.27777777777778,42.132199351828554,15.634172924713392,26.421004250024758
