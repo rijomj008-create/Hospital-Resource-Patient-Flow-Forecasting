@@ -1,2 +1,2 @@
 cutoff_date,test_rows,hospitals,baseline_col,exog_cols,mae_model,rmse_model,mae_baseline,rmse_baseline,smape_model_active,smape_baseline_active,smape_model_y_ge_2,smape_baseline_y_ge_2,active_hospitals
-2025-08-05,3240,36,lag7,"is_holiday,ed_trolleys,ward_trolleys,total_trolleys,tavg,tmin,tmax,prcp,wspd",2.7997378116488836,5.00315153601417,3.312037037037037,6.191267246974305,69.4119697872574,74.61921649164022,66.0553656330619,67.4472021647067,23
+2025-12-24,3240,36,lag7,"is_holiday,ed_trolleys,ward_trolleys,total_trolleys,tavg,tmin,tmax,prcp,wspd",3.36280126188718,6.423363196012518,4.124691358024691,7.745528379429206,67.90982978338636,75.89902091215308,65.95617398892699,68.81708956193687,23

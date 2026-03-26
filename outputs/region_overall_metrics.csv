@@ -1,2 +1,2 @@
 model,cutoff_date,test_rows,regions,baseline_col,exog_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline
-xgboost,2025-08-05,720,8,y_wkago,"is_holiday,tavg,tmin,tmax,prcp,wspd",9.963426816820478,13.455149350364374,69.46452212196428,9.54861111111111,13.076856146133391,64.40294603089909
+xgboost,2025-12-24,720,8,y_wkago,"is_holiday,tavg,tmin,tmax,prcp,wspd",13.718845931895904,19.189885148435888,79.1854262526812,13.858333333333333,19.572514742192258,87.34276077911017
