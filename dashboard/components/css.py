@@ -73,15 +73,10 @@ def inject_css():
             padding-bottom: 3rem;
         }}
 
-        /* Sidebar — solid HSE blue */
+        /* Sidebar — solid HSE blue (all screen sizes) */
         [data-testid="stSidebar"] {{
             background: #002D5C !important;
             border-right: 1px solid rgba(255,255,255,0.08) !important;
-            min-width: 244px !important;
-            width: 244px !important;
-            transform: none !important;
-            display: block !important;
-            visibility: visible !important;
         }}
         [data-testid="stSidebar"] * {{
             color: rgba(255,255,255,0.80) !important;
@@ -94,10 +89,19 @@ def inject_css():
             padding-left: 8px;
             border-radius: 3px;
         }}
-        /* Hide sidebar toggle buttons */
-        [data-testid="stSidebarCollapseButton"],
-        [data-testid="collapsedControl"] {{
-            display: none !important;
+        /* Desktop: keep sidebar pinned open, hide the toggle button */
+        @media (min-width: 769px) {{
+            [data-testid="stSidebar"] {{
+                min-width: 244px !important;
+                width: 244px !important;
+                transform: none !important;
+                display: block !important;
+                visibility: visible !important;
+            }}
+            [data-testid="stSidebarCollapseButton"],
+            [data-testid="collapsedControl"] {{
+                display: none !important;
+            }}
         }}
 
         /* Global font */
@@ -232,6 +236,74 @@ def inject_css():
             border: none;
             border-top: 1px solid #DDD9CF;
             margin: 16px 0;
+        }}
+
+        /* ── Mobile (≤ 768px) ─────────────────────────────────────────────── */
+        @media (max-width: 768px) {{
+
+            /* Show the hamburger menu so users can open the sidebar */
+            [data-testid="stSidebarCollapseButton"],
+            [data-testid="collapsedControl"] {{
+                display: flex !important;
+            }}
+
+            /* Stack columns vertically instead of side by side */
+            [data-testid="stHorizontalBlock"],
+            [data-testid="stColumns"] {{
+                flex-wrap: wrap !important;
+            }}
+            [data-testid="column"],
+            [data-testid="stColumn"] {{
+                min-width: 100% !important;
+                width: 100% !important;
+                flex: 1 1 100% !important;
+            }}
+
+            /* Smaller page title */
+            .screen-title {{
+                font-size: 1.3rem !important;
+            }}
+            .page-subtitle {{
+                font-size: 12px !important;
+                max-width: 100% !important;
+            }}
+
+            /* Tighter main content padding */
+            [data-testid="stMainBlockContainer"] {{
+                padding-left: 0.75rem !important;
+                padding-right: 0.75rem !important;
+                padding-top: 1rem !important;
+            }}
+
+            /* Compact cards */
+            .card-wrap {{
+                padding: 14px 12px !important;
+                margin-bottom: 12px !important;
+                border-radius: 8px !important;
+            }}
+            .metric-card {{
+                padding: 12px 12px !important;
+                margin-bottom: 10px !important;
+            }}
+
+            /* Scale down stat numbers so they fit on one line */
+            .stat-number {{
+                font-size: 1.75rem !important;
+            }}
+
+            /* Slightly smaller callout and finding text */
+            .insight-callout {{
+                font-size: 11px !important;
+            }}
+            .finding-label {{
+                font-size: 10px !important;
+            }}
+
+            /* Section headings don't need to shrink much, but tighten spacing */
+            .section-heading {{
+                font-size: 0.85rem !important;
+                margin-bottom: 6px !important;
+            }}
         }}
         </style>
         """,
