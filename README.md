@@ -2,6 +2,11 @@
 
 > *Turning Ireland's daily trolley crisis data into a 14-day forecasting and capacity alert system — from automated web scraping through machine learning to an interactive dashboard.*
 
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rijomj008-create/Hospital-Resource-Patient-Flow-Forecasting)
+
+**[https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/](https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/)**
+
 ---
 
 ## Headline Numbers
@@ -189,7 +194,7 @@ azure-function-project/
 | **Machine learning** | `xgboost`, `scikit-learn`, `joblib` |
 | **EDA & visualisation** | `pandas`, `matplotlib`, `plotly` |
 | **Scheduling** | Azure Functions cron triggers |
-| **Dashboard** | Streamlit *(in development)* |
+| **Dashboard** | Streamlit — [live app](https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/) |
 | **Version control** | Git |
 
 ---
@@ -362,7 +367,9 @@ The `TimerTriggerFunction` runs at 08:15 UTC. The `RetrainFunction` runs every M
 
 ---
 
-## Dashboard Roadmap (Streamlit — In Development)
+## Interactive Dashboard
+
+**Live at: [https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/](https://hospital-resource-patient-flow-forecasting-ireland.streamlit.app/)**
 
 | Screen | Content |
 |---|---|
