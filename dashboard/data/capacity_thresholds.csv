@@ -1,0 +1,16 @@
+hospital,region,rolling_mean_28,rolling_sd_28,threshold_amber,threshold_red
+CHI at Tallaght,Dublin Midlands,0.0,0.5998236072282916,0.8997354108424375,1.1996472144565833
+Letterkenny University Hospital,West / North-West,12.0,8.04550549873398,24.06825824810097,28.09101099746796
+Louth County Hospital,HSE Dublin & North East,0.0,0.0,0.0,0.0
+Mallow General Hospital,HSE South & South East,0.0,0.0,0.0,0.0
+MRH Tullamore,HSE Dublin & Midlands,0.0,0.0,0.0,0.0
+National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0,0.0,0.0
+Nenagh Hospital,HSE West & North West,0.0,0.0,0.0,0.0
+Roscommon University Hospital,HSE West & North West,0.0,0.0,0.0,0.0
+South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0,0.0,0.0
+St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0,0.0,0.0
+St. John's Hospital Limerick,HSE West & North West,0.0,0.0,0.0,0.0
+St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0,0.0,0.0
+St. Michael's Hospital,HSE Dublin & North East,0.0,0.0,0.0,0.0
+UH Kerry,HSE South & South East,16.0,7.360968851575343,27.041453277363015,30.721937703150687
+UH Waterford,HSE South & South East,0.0,0.0,0.0,0.0

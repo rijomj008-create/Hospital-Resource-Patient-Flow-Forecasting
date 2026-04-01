@@ -1,0 +1,2 @@
+model,cutoff_date,test_rows,baseline_col,feature_cols,mae_model,rmse_model,mape_model,mae_baseline,rmse_baseline,mape_baseline,mae_lift
+xgboost,2025-12-24,90,lag7,"lag1,lag7,lag14,ma7,ma28,dow,month,is_weekend,is_winter,is_holiday,zscore_nat,is_spike_nat,beds_nat,pct_of_beds_nat,tavg_dublin,tmin_dublin,tmax_dublin,prcp_dublin,wspd_dublin",12.516823008325364,18.14739027551488,12.41479820062223,75.53333333333333,97.59223557458064,49.03133678973312,63.01651032500797

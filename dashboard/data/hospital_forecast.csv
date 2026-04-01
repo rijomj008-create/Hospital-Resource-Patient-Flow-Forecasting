@@ -1,0 +1,505 @@
+report_date,hospital,region,lag7_used,pred_hosp
+2026-03-26,CHI at Tallaght,Dublin Midlands,0.0,0.0
+2026-03-26,CHI at Temple Street,HSE Dublin & North East,4.0,2.120578218164023
+2026-03-26,Cavan General Hospital,HSE Dublin & North East,3.0,0.0
+2026-03-26,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-26,Cork University Hospital,South / South-West,52.0,39.47366008594643
+2026-03-26,Letterkenny University Hospital,West / North-West,15.0,8.701894578654185
+2026-03-26,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-26,MRH Mullingar,HSE Dublin & Midlands,2.0,0.0
+2026-03-26,MRH Portlaoise,HSE Dublin & Midlands,2.0,0.0
+2026-03-26,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-26,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-26,Mater Misericordiae University Hospital,Dublin North East,14.0,5.665931046184877
+2026-03-26,Mayo University Hospital,HSE West & North West,27.0,19.95584290233949
+2026-03-26,Mercy University Hospital,HSE South & South East,6.0,0.0
+2026-03-26,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-03-26,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-26,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-26,Our Lady of Lourdes Hospital,HSE Dublin & North East,4.0,0.0
+2026-03-26,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-26,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-03-26,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-26,Sligo University Hospital,HSE West & North West,8.0,0.0
+2026-03-26,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-26,St Luke's General Hospital Kilkenny,HSE South & South East,16.0,12.135653302396971
+2026-03-26,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-26,St. James's Hospital,HSE Dublin & Midlands,13.0,4.205781112578464
+2026-03-26,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-26,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-26,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-26,St. Vincent's University Hospital,HSE Dublin & North East,22.0,10.50487079979757
+2026-03-26,Tallaght University Hospital,HSE Dublin & Midlands,14.0,3.57047401583106
+2026-03-26,Tipperary University Hospital,HSE South & South East,9.0,4.608350120731814
+2026-03-26,UH Kerry,HSE South & South East,13.0,5.81688302859977
+2026-03-26,UH Limerick,HSE West & North West,25.0,1.2924604778813382
+2026-03-26,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-26,Wexford General Hospital,HSE South & South East,3.0,0.0
+2026-03-27,CHI at Tallaght,Dublin Midlands,0.0,0.0
+2026-03-27,CHI at Temple Street,HSE Dublin & North East,5.0,3.120578218164023
+2026-03-27,Cavan General Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-27,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-27,Cork University Hospital,South / South-West,28.0,15.47366008594643
+2026-03-27,Letterkenny University Hospital,West / North-West,14.0,7.701894578654185
+2026-03-27,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-27,MRH Mullingar,HSE Dublin & Midlands,4.0,0.6966799755823114
+2026-03-27,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-03-27,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-27,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-27,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-03-27,Mayo University Hospital,HSE West & North West,23.0,15.955842902339489
+2026-03-27,Mercy University Hospital,HSE South & South East,5.0,0.0
+2026-03-27,Naas General Hospital,Dublin Midlands,24.0,18.101795025274036
+2026-03-27,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-27,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-27,Our Lady of Lourdes Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-27,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-27,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-03-27,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-27,Sligo University Hospital,HSE West & North West,8.0,0.0
+2026-03-27,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-27,St Luke's General Hospital Kilkenny,HSE South & South East,11.0,7.135653302396971
+2026-03-27,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-27,St. James's Hospital,HSE Dublin & Midlands,14.0,5.205781112578464
+2026-03-27,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-27,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-27,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-27,St. Vincent's University Hospital,HSE Dublin & North East,22.0,10.50487079979757
+2026-03-27,Tallaght University Hospital,HSE Dublin & Midlands,25.0,14.57047401583106
+2026-03-27,Tipperary University Hospital,HSE South & South East,9.0,4.608350120731814
+2026-03-27,UH Kerry,HSE South & South East,24.0,16.81688302859977
+2026-03-27,UH Limerick,HSE West & North West,27.0,3.292460477881338
+2026-03-27,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-27,Wexford General Hospital,HSE South & South East,6.0,1.9937367326685669
+2026-03-28,CHI at Tallaght,Dublin Midlands,1.0,0.007888743491181849
+2026-03-28,CHI at Temple Street,HSE Dublin & North East,4.0,2.120578218164023
+2026-03-28,Cavan General Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-28,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-28,Cork University Hospital,South / South-West,14.0,1.4736600859464293
+2026-03-28,Letterkenny University Hospital,West / North-West,3.0,0.0
+2026-03-28,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-28,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-03-28,MRH Portlaoise,HSE Dublin & Midlands,7.0,4.268014748430228
+2026-03-28,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-28,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-28,Mater Misericordiae University Hospital,Dublin North East,7.0,0.0
+2026-03-28,Mayo University Hospital,HSE West & North West,23.0,15.955842902339489
+2026-03-28,Mercy University Hospital,HSE South & South East,3.0,0.0
+2026-03-28,Naas General Hospital,Dublin Midlands,5.0,0.0
+2026-03-28,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-28,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-28,Our Lady of Lourdes Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-28,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-28,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-03-28,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-28,Sligo University Hospital,HSE West & North West,2.0,0.0
+2026-03-28,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-28,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-03-28,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-28,St. James's Hospital,HSE Dublin & Midlands,11.0,2.205781112578464
+2026-03-28,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-28,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-28,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-28,St. Vincent's University Hospital,HSE Dublin & North East,14.0,2.5048707997975708
+2026-03-28,Tallaght University Hospital,HSE Dublin & Midlands,5.0,0.0
+2026-03-28,Tipperary University Hospital,HSE South & South East,9.0,4.608350120731814
+2026-03-28,UH Kerry,HSE South & South East,11.0,3.8168830285997704
+2026-03-28,UH Limerick,HSE West & North West,11.0,0.0
+2026-03-28,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-28,Wexford General Hospital,HSE South & South East,6.0,1.9937367326685669
+2026-03-29,CHI at Tallaght,Dublin Midlands,0.0,0.0
+2026-03-29,CHI at Temple Street,HSE Dublin & North East,3.0,1.120578218164023
+2026-03-29,Cavan General Hospital,HSE Dublin & North East,3.0,0.0
+2026-03-29,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-29,Cork University Hospital,South / South-West,33.0,20.473660085946428
+2026-03-29,Letterkenny University Hospital,West / North-West,7.0,0.7018945786541853
+2026-03-29,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-29,MRH Mullingar,HSE Dublin & Midlands,4.0,0.6966799755823114
+2026-03-29,MRH Portlaoise,HSE Dublin & Midlands,9.0,6.268014748430228
+2026-03-29,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-29,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-29,Mater Misericordiae University Hospital,Dublin North East,8.0,0.0
+2026-03-29,Mayo University Hospital,HSE West & North West,31.0,23.95584290233949
+2026-03-29,Mercy University Hospital,HSE South & South East,1.0,0.0
+2026-03-29,Naas General Hospital,Dublin Midlands,5.0,0.0
+2026-03-29,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-29,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-29,Our Lady of Lourdes Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-29,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-29,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-03-29,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-29,Sligo University Hospital,HSE West & North West,0.0,0.0
+2026-03-29,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-29,St Luke's General Hospital Kilkenny,HSE South & South East,10.0,6.135653302396971
+2026-03-29,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-29,St. James's Hospital,HSE Dublin & Midlands,10.0,1.2057811125784639
+2026-03-29,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-29,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-29,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-29,St. Vincent's University Hospital,HSE Dublin & North East,20.0,8.50487079979757
+2026-03-29,Tallaght University Hospital,HSE Dublin & Midlands,5.0,0.0
+2026-03-29,Tipperary University Hospital,HSE South & South East,7.0,2.6083501207318136
+2026-03-29,UH Kerry,HSE South & South East,13.0,5.81688302859977
+2026-03-29,UH Limerick,HSE West & North West,28.0,4.292460477881338
+2026-03-29,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-29,Wexford General Hospital,HSE South & South East,3.0,0.0
+2026-03-30,CHI at Tallaght,Dublin Midlands,0.0,0.0
+2026-03-30,CHI at Temple Street,HSE Dublin & North East,5.0,3.120578218164023
+2026-03-30,Cavan General Hospital,HSE Dublin & North East,7.0,3.4711535150312987
+2026-03-30,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-30,Cork University Hospital,South / South-West,39.0,26.473660085946428
+2026-03-30,Letterkenny University Hospital,West / North-West,22.0,15.701894578654185
+2026-03-30,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-30,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-03-30,MRH Portlaoise,HSE Dublin & Midlands,9.0,6.268014748430228
+2026-03-30,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-30,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-30,Mater Misericordiae University Hospital,Dublin North East,13.0,4.665931046184877
+2026-03-30,Mayo University Hospital,HSE West & North West,28.0,20.95584290233949
+2026-03-30,Mercy University Hospital,HSE South & South East,2.0,0.0
+2026-03-30,Naas General Hospital,Dublin Midlands,10.0,4.101795025274036
+2026-03-30,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-30,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-30,Our Lady of Lourdes Hospital,HSE Dublin & North East,5.0,0.0
+2026-03-30,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-30,Portiuncula University Hospital,HSE West & North West,1.0,0.0
+2026-03-30,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-30,Sligo University Hospital,HSE West & North West,6.0,0.0
+2026-03-30,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-30,St Luke's General Hospital Kilkenny,HSE South & South East,12.0,8.135653302396971
+2026-03-30,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-30,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-03-30,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-30,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-30,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-30,St. Vincent's University Hospital,HSE Dublin & North East,34.0,22.504870799797573
+2026-03-30,Tallaght University Hospital,HSE Dublin & Midlands,27.0,16.57047401583106
+2026-03-30,Tipperary University Hospital,HSE South & South East,8.0,3.6083501207318136
+2026-03-30,UH Kerry,HSE South & South East,25.0,17.81688302859977
+2026-03-30,UH Limerick,HSE West & North West,55.0,31.292460477881338
+2026-03-30,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-30,Wexford General Hospital,HSE South & South East,4.0,0.0
+2026-03-31,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-03-31,CHI at Temple Street,HSE Dublin & North East,5.0,3.120578218164023
+2026-03-31,Cavan General Hospital,HSE Dublin & North East,9.0,5.471153515031299
+2026-03-31,Connolly Hospital,Dublin North East,0.0,0.0
+2026-03-31,Cork University Hospital,South / South-West,44.0,31.473660085946428
+2026-03-31,Letterkenny University Hospital,West / North-West,25.0,18.701894578654183
+2026-03-31,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-31,MRH Mullingar,HSE Dublin & Midlands,0.0,0.0
+2026-03-31,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-03-31,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-03-31,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-03-31,Mater Misericordiae University Hospital,Dublin North East,14.0,5.665931046184877
+2026-03-31,Mayo University Hospital,HSE West & North West,30.0,22.95584290233949
+2026-03-31,Mercy University Hospital,HSE South & South East,7.0,0.2913043765446446
+2026-03-31,Naas General Hospital,Dublin Midlands,27.0,21.101795025274036
+2026-03-31,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-03-31,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-03-31,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-03-31,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-03-31,Portiuncula University Hospital,HSE West & North West,1.0,0.0
+2026-03-31,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-03-31,Sligo University Hospital,HSE West & North West,14.0,5.406278850447508
+2026-03-31,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-03-31,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-03-31,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-31,St. James's Hospital,HSE Dublin & Midlands,24.0,15.205781112578464
+2026-03-31,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-03-31,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-03-31,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-03-31,St. Vincent's University Hospital,HSE Dublin & North East,42.0,30.504870799797573
+2026-03-31,Tallaght University Hospital,HSE Dublin & Midlands,20.0,9.57047401583106
+2026-03-31,Tipperary University Hospital,HSE South & South East,10.0,5.608350120731814
+2026-03-31,UH Kerry,HSE South & South East,28.0,20.81688302859977
+2026-03-31,UH Limerick,HSE West & North West,63.0,39.292460477881335
+2026-03-31,UH Waterford,HSE South & South East,0.0,0.0
+2026-03-31,Wexford General Hospital,HSE South & South East,2.0,0.0
+2026-04-01,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-01,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-01,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-01,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-01,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-01,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-01,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-01,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-01,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-01,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-01,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-01,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-01,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-01,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-01,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-01,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-01,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-01,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-01,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-01,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-01,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-01,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-01,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-01,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-01,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-01,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-01,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-01,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-01,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-01,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-01,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-01,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-01,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-01,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-01,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-01,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
+2026-04-02,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-02,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-02,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-02,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-02,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-02,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-02,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-02,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-02,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-02,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-02,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-02,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-02,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-02,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-02,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-02,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-02,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-02,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-02,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-02,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-02,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-02,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-02,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-02,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-02,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-02,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-02,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-02,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-02,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-02,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-02,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-02,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-02,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-02,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-02,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-02,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
+2026-04-03,CHI at Tallaght,Dublin Midlands,2.0,0.0
+2026-04-03,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-03,Cavan General Hospital,HSE Dublin & North East,12.0,6.261844270712206
+2026-04-03,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-03,Cork University Hospital,South / South-West,48.0,33.26435084162733
+2026-04-03,Letterkenny University Hospital,West / North-West,32.0,23.492585334335093
+2026-04-03,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-03,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-03,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-03,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-03,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-03,Mater Misericordiae University Hospital,Dublin North East,12.0,1.4566218018657846
+2026-04-03,Mayo University Hospital,HSE West & North West,24.0,14.746533658020397
+2026-04-03,Mercy University Hospital,HSE South & South East,12.0,3.0819951322255523
+2026-04-03,Naas General Hospital,Dublin Midlands,15.0,6.892485780954942
+2026-04-03,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-03,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-03,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,3.497700832974454
+2026-04-03,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-03,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-03,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-03,Sligo University Hospital,HSE West & North West,23.0,12.196969606128416
+2026-04-03,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-03,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-03,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-03,St. James's Hospital,HSE Dublin & Midlands,31.0,19.99647186825937
+2026-04-03,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-03,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-03,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-03,St. Vincent's University Hospital,HSE Dublin & North East,48.0,34.29556155547848
+2026-04-03,Tallaght University Hospital,HSE Dublin & Midlands,29.0,16.361164771511966
+2026-04-03,Tipperary University Hospital,HSE South & South East,16.0,9.399040876412721
+2026-04-03,UH Kerry,HSE South & South East,36.0,26.607573784280678
+2026-04-03,UH Limerick,HSE West & North West,58.0,32.08315123356225
+2026-04-03,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-03,Wexford General Hospital,HSE South & South East,5.0,0.0
+2026-04-04,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-04,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-04,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-04,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-04,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-04,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-04,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-04,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-04,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-04,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-04,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-04,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-04,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-04,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-04,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-04,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-04,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-04,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-04,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-04,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-04,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-04,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-04,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-04,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-04,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-04,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-04,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-04,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-04,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-04,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-04,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-04,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-04,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-04,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-04,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-04,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
+2026-04-05,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-05,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-05,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-05,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-05,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-05,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-05,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-05,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-05,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-05,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-05,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-05,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-05,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-05,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-05,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-05,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-05,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-05,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-05,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-05,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-05,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-05,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-05,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-05,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-05,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-05,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-05,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-05,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-05,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-05,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-05,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-05,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-05,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-05,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-05,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-05,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
+2026-04-06,CHI at Tallaght,Dublin Midlands,2.0,0.0
+2026-04-06,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-06,Cavan General Hospital,HSE Dublin & North East,12.0,6.261844270712206
+2026-04-06,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-06,Cork University Hospital,South / South-West,48.0,33.26435084162733
+2026-04-06,Letterkenny University Hospital,West / North-West,32.0,23.492585334335093
+2026-04-06,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-06,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-06,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-06,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-06,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-06,Mater Misericordiae University Hospital,Dublin North East,12.0,1.4566218018657846
+2026-04-06,Mayo University Hospital,HSE West & North West,24.0,14.746533658020397
+2026-04-06,Mercy University Hospital,HSE South & South East,12.0,3.0819951322255523
+2026-04-06,Naas General Hospital,Dublin Midlands,15.0,6.892485780954942
+2026-04-06,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-06,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-06,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,3.497700832974454
+2026-04-06,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-06,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-06,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-06,Sligo University Hospital,HSE West & North West,23.0,12.196969606128416
+2026-04-06,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-06,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-06,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-06,St. James's Hospital,HSE Dublin & Midlands,31.0,19.99647186825937
+2026-04-06,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-06,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-06,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-06,St. Vincent's University Hospital,HSE Dublin & North East,48.0,34.29556155547848
+2026-04-06,Tallaght University Hospital,HSE Dublin & Midlands,29.0,16.361164771511966
+2026-04-06,Tipperary University Hospital,HSE South & South East,16.0,9.399040876412721
+2026-04-06,UH Kerry,HSE South & South East,36.0,26.607573784280678
+2026-04-06,UH Limerick,HSE West & North West,58.0,32.08315123356225
+2026-04-06,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-06,Wexford General Hospital,HSE South & South East,5.0,0.0
+2026-04-07,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-07,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-07,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-07,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-07,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-07,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-07,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-07,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-07,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-07,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-07,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-07,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-07,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-07,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-07,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-07,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-07,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-07,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-07,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-07,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-07,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-07,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-07,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-07,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-07,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-07,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-07,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-07,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-07,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-07,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-07,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-07,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-07,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-07,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-07,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-07,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
+2026-04-08,CHI at Tallaght,Dublin Midlands,2.0,1.0078887434911818
+2026-04-08,CHI at Temple Street,HSE Dublin & North East,0.0,0.0
+2026-04-08,Cavan General Hospital,HSE Dublin & North East,12.0,8.471153515031299
+2026-04-08,Connolly Hospital,Dublin North East,0.0,0.0
+2026-04-08,Cork University Hospital,South / South-West,48.0,35.47366008594643
+2026-04-08,Letterkenny University Hospital,West / North-West,32.0,25.701894578654183
+2026-04-08,Louth County Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-08,MRH Mullingar,HSE Dublin & Midlands,3.0,0.0
+2026-04-08,MRH Portlaoise,HSE Dublin & Midlands,0.0,0.0
+2026-04-08,MRH Tullamore,HSE Dublin & Midlands,0.0,0.0
+2026-04-08,Mallow General Hospital,HSE South & South East,0.0,0.0
+2026-04-08,Mater Misericordiae University Hospital,Dublin North East,12.0,3.665931046184877
+2026-04-08,Mayo University Hospital,HSE West & North West,24.0,16.95584290233949
+2026-04-08,Mercy University Hospital,HSE South & South East,12.0,5.291304376544645
+2026-04-08,Naas General Hospital,Dublin Midlands,15.0,9.101795025274036
+2026-04-08,National Orthopaedic Hospital Cappagh,HSE Dublin & North East,0.0,0.0
+2026-04-08,Nenagh Hospital,HSE West & North West,0.0,0.0
+2026-04-08,Our Lady of Lourdes Hospital,HSE Dublin & North East,12.0,5.707010077293547
+2026-04-08,Our Lady's Hospital Navan,HSE Dublin & North East,0.0,0.0
+2026-04-08,Portiuncula University Hospital,HSE West & North West,0.0,0.0
+2026-04-08,Roscommon University Hospital,HSE West & North West,0.0,0.0
+2026-04-08,Sligo University Hospital,HSE West & North West,23.0,14.406278850447508
+2026-04-08,South Infirmary Victoria University Hospital,HSE South & South East,0.0,0.0
+2026-04-08,St Luke's General Hospital Kilkenny,HSE South & South East,0.0,0.0
+2026-04-08,St. Columcille's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-08,St. James's Hospital,HSE Dublin & Midlands,31.0,22.205781112578464
+2026-04-08,St. John's Hospital Limerick,HSE West & North West,0.0,0.0
+2026-04-08,St. Luke's Radiation Oncology Network,HSE Dublin & North East,0.0,0.0
+2026-04-08,St. Michael's Hospital,HSE Dublin & North East,0.0,0.0
+2026-04-08,St. Vincent's University Hospital,HSE Dublin & North East,48.0,36.50487079979757
+2026-04-08,Tallaght University Hospital,HSE Dublin & Midlands,29.0,18.57047401583106
+2026-04-08,Tipperary University Hospital,HSE South & South East,16.0,11.608350120731814
+2026-04-08,UH Kerry,HSE South & South East,36.0,28.81688302859977
+2026-04-08,UH Limerick,HSE West & North West,58.0,34.292460477881335
+2026-04-08,UH Waterford,HSE South & South East,0.0,0.0
+2026-04-08,Wexford General Hospital,HSE South & South East,5.0,0.9937367326685669
