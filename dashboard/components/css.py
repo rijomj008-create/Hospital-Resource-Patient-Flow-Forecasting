@@ -232,27 +232,6 @@ def inject_css():
         #MainMenu, footer {{ visibility: hidden; }}
         [data-testid="stHeader"] {{ background: transparent !important; height: 0 !important; overflow: hidden; }}
 
-        /* Floating mobile menu button */
-        .mobile-nav-fab {{
-            display: none;
-            position: fixed;
-            bottom: 1.5rem;
-            right: 1.5rem;
-            z-index: 99999;
-            background: #002D5C;
-            color: white;
-            border: 2px solid rgba(0,156,166,0.7);
-            border-radius: 50%;
-            width: 54px;
-            height: 54px;
-            font-size: 22px;
-            cursor: pointer;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
-            align-items: center;
-            justify-content: center;
-            transition: transform 0.15s;
-        }}
-        .mobile-nav-fab:active {{ transform: scale(0.93); }}
 
         /* Divider */
         hr {{
@@ -264,15 +243,39 @@ def inject_css():
         /* ── Mobile (≤ 768px) ─────────────────────────────────────────────── */
         @media (max-width: 768px) {{
 
-            /* Show floating menu button */
-            .mobile-nav-fab {{
-                display: flex !important;
-            }}
-
-            /* Show and un-hide Streamlit's native sidebar toggle as well */
-            [data-testid="stSidebarCollapseButton"],
+            /* Style Streamlit's native collapsed-sidebar button as a prominent
+               floating action button — overrides any cascaded visibility:hidden */
             [data-testid="collapsedControl"] {{
                 display: flex !important;
+                visibility: visible !important;
+                position: fixed !important;
+                bottom: 1.5rem !important;
+                right: 1.5rem !important;
+                z-index: 99999 !important;
+                background: #002D5C !important;
+                border-radius: 50% !important;
+                width: 54px !important;
+                height: 54px !important;
+                align-items: center !important;
+                justify-content: center !important;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.5) !important;
+                border: 2px solid rgba(0,156,166,0.7) !important;
+            }}
+            [data-testid="collapsedControl"] button {{
+                background: transparent !important;
+                border: none !important;
+                width: 100% !important;
+                height: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                visibility: visible !important;
+                cursor: pointer !important;
+            }}
+            [data-testid="collapsedControl"] svg {{
+                fill: white !important;
+                width: 24px !important;
+                height: 24px !important;
                 visibility: visible !important;
             }}
 
@@ -339,17 +342,3 @@ def inject_css():
         unsafe_allow_html=True,
     )
 
-    # Floating menu button — visible on mobile only, triggers Streamlit's sidebar toggle
-    st.markdown(
-        """
-        <button class="mobile-nav-fab" title="Open navigation menu"
-            onclick="(function(){
-                var btn = document.querySelector('[data-testid=\\"collapsedControl\\"] button')
-                       || document.querySelector('[data-testid=\\"stSidebarCollapseButton\\"] button');
-                if (btn) btn.click();
-            })()">
-            &#9776;
-        </button>
-        """,
-        unsafe_allow_html=True,
-    )
